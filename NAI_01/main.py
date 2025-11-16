@@ -1,5 +1,5 @@
 # Connect Four (https://www.wikiwand.com/en/articles/Connect_Four)
-# 
+#
 # Instrukcja przygotowania środowiska:
 # pip:
 #   pip install easyAI
