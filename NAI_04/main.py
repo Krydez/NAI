@@ -20,7 +20,7 @@ from sklearn.preprocessing import StandardScaler
 # 1. KONFIGURACJA I POBIERANIE DANYCH
 # ============================================================
 
-# Zbiór 1: Banknote Authentication (zgodnie z poleceniem)
+# Zbiór 1: Banknote Authentication
 url_banknote = "https://archive.ics.uci.edu/ml/machine-learning-databases/00267/data_banknote_authentication.txt"
 cols_banknote = ["variance", "skewness", "kurtosis", "entropy", "class"]
 
